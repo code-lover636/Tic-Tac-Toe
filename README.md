@@ -5,6 +5,6 @@ Press the tile to mark X or O.
 > Made with tkinter
 
 ## Output
-![image](https://user-images.githubusercontent.com/77882744/178661948-66382f81-1245-49bc-96e0-54ae532cefe7.png)
+![image](https://user-images.githubusercontent.com/77882744/194766523-f8b0578e-8346-4391-b333-f6add9a701f8.png)
 
-![image](https://user-images.githubusercontent.com/77882744/178661620-5b53a258-2652-46dc-858a-261460f48fe0.png)
+![image](https://user-images.githubusercontent.com/77882744/194766550-4531a7af-fa20-4055-9112-25c01ddd1bf2.png)
