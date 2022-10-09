@@ -2,7 +2,8 @@
 ## Description 
 Tic-tac-toe needs no introduction.
 Press the tile to mark X or O.
-> Made with tkinter
+> Version 1 Made with Tkinter
+> Version 2 Made with Pygame
 
 ## Output
 ![image](https://user-images.githubusercontent.com/77882744/194766523-f8b0578e-8346-4391-b333-f6add9a701f8.png)
